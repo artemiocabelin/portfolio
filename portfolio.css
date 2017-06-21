@@ -1,0 +1,192 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+
+}
+
+p {
+    padding-bottom: 10px;
+}
+
+a {
+    color: #FFFFFF;
+    text-decoration: none;
+}
+
+h1 {
+    font-size: 25px;
+}
+
+h3 {
+    font-size: 18px;
+}
+
+#wrapper {
+    background: #251419; /* For browsers that do not support gradients */
+    background: -webkit-linear-gradient(#251419, #6F5964); /* For Safari 5.1 to 6.0 */
+    background: -o-linear-gradient(#251419, #6F5964); /* For Opera 11.1 to 12.0 */
+    background: -moz-linear-gradient(#251419, #6F5964); /* For Firefox 3.6 to 15 */
+    background: linear-gradient(#251419, #6F5964); /* Standard syntax */
+    width: 1000px;
+    height: 1050px;
+    margin: 0 auto; 
+}
+
+#header {
+    background-color: #F9F9F9;
+    padding: 20px;   
+}
+
+#name {
+    display: inline-block;
+    width: 250px;
+    text-align: left;
+}
+
+#title {
+    display: inline-block;
+    float: right;
+    width: 500px;
+    padding: 10px 0;
+    text-align: right;
+}
+
+#wrapper2 {
+    padding: 20px;
+    text-align: center;
+}
+
+#description {
+    height: 280px;
+}
+
+#pic_of_me {
+    /*background-image: url('Portfolio_images/photo_of_me.jpg');*/
+    height: 280px;
+    width: 410px;
+    display: inline-block;
+    float: left;
+}
+
+#brief_about_me {
+    display: inline-block;
+    height: 280px;
+    width: 510px;
+    float: right;
+    font-size: 17px;
+    text-align: left;
+}
+
+#about {
+    background: #888493; /* For browsers that do not support gradients */
+  background: -webkit-linear-gradient(#ABAAB0, #888493, #ABAAB0); /* For Safari 5.1 to 6.0 */
+  background: -o-linear-gradient(#ABAAB0, #888493, #ABAAB0); /* For Opera 11.1 to 12.0 */
+  background: -moz-linear-gradient(#ABAAB0, #888493, #ABAAB0); /* For Firefox 3.6 to 15 */
+  background: linear-gradient(#ABAAB0, #888493, #ABAAB0); /* Standard syntax */
+    padding: 10px;
+    color: #FFFFFF;
+}
+
+#about_content {
+    background-color: #E7DEE7;
+    height:220px;
+    padding: 10px;
+}
+
+#continue_reading {
+    color: black;
+    text-decoration: underline;
+}
+
+#apps {
+    margin-top: 25px;
+}
+
+.tech_images {
+    width: 40px;
+    margin: 5px;
+}
+
+.apps_style {
+    height: 400px;
+    width: 310px;
+    display: inline-block;
+    background-color: #E7DEE7;
+    text-align: left;
+}
+
+.app_pic {
+    width: 310px;
+}
+
+.apps_title {
+    background: #888493; /* For browsers that do not support gradients */
+  background: -webkit-linear-gradient(#ABAAB0, #888493, #ABAAB0); /* For Safari 5.1 to 6.0 */
+  background: -o-linear-gradient(#ABAAB0, #888493, #ABAAB0); /* For Opera 11.1 to 12.0 */
+  background: -moz-linear-gradient(#ABAAB0, #888493, #ABAAB0); /* For Firefox 3.6 to 15 */
+  background: linear-gradient(#ABAAB0, #888493, #ABAAB0); /* Standard syntax */
+    padding: 10px;
+    color: #FFFFFF;
+}
+
+.apps_content {
+    padding: 10px;
+}
+
+.left {
+    float: left;
+}
+
+.right {
+    float: right;
+}
+
+#photo_me{
+    width: 410px;
+    border: 5px solid #C0C0C0;
+}
+
+.button {
+    width: 150px;
+    margin: auto;
+    text-align: center;
+    background-color: #407D61;
+    border-radius: 5px;
+    border: 2px solid black;
+    padding: 5px;
+    color: #FFFFFF;
+}
+
+.shorten {
+    height: 200px;
+}
+
+.social_media {
+    width: 15px; 
+}
+
+#footer1{
+    text-align: center;
+    background-color: #FAFAFA;
+    padding: 10px 0;
+}
+
+.footertext {
+    color: black;
+    text-decoration: underline;
+    font-style: italic;
+}
+
+#fiveElebut{
+    width: 75px;
+}
+
+#famContbut {
+    width: 120px;
+}
+
+#lamodbut {
+    width: 60px;
+}
